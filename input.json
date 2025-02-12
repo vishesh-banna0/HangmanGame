@@ -1,0 +1,124 @@
+{
+    "list": [
+        {
+            "word": "python",
+            "hints": ["A popular programming language.", "Named after a comedy group.", "Used in web and AI development."]
+        },
+        {
+            "word": "elephant",
+            "hints": ["A large land animal.", "Has a trunk.", "Symbol of wisdom in many cultures."]
+        },
+        {
+            "word": "guitar",
+            "hints": ["A musical instrument.", "Has six strings.", "Often used in rock and pop music."]
+        },
+        {
+            "word": "ocean",
+            "hints": ["A vast body of saltwater.", "Covers most of Earth.", "Home to whales and sharks."]
+        },
+        {
+            "word": "pizza",
+            "hints": ["A popular Italian dish.", "Has cheese and toppings.", "Often comes in slices."]
+        },
+        {
+            "word": "castle",
+            "hints": ["A large historic building.", "Home of kings and queens.", "Often has towers and walls."]
+        },
+        {
+            "word": "moon",
+            "hints": ["Earth's only natural satellite.", "Visible at night.", "Affects ocean tides."]
+        },
+        {
+            "word": "train",
+            "hints": ["A long vehicle on tracks.", "Used for transport.", "Can be powered by steam, diesel, or electricity."]
+        },
+        {
+            "word": "rainbow",
+            "hints": ["A spectrum of colors.", "Appears after rain.", "Has seven main colors."]
+        },
+        {
+            "word": "library",
+            "hints": ["A place with many books.", "Used for reading and studying.", "Requires a membership card in most cases."]
+        },
+        {
+            "word": "tiger",
+            "hints": ["A large wild cat.", "Has orange fur with black stripes.", "Known as the king of the jungle."]
+        },
+        {
+            "word": "volcano",
+            "hints": ["A mountain that erupts.", "Spews lava and ash.", "Can be dormant, active, or extinct."]
+        },
+        {
+            "word": "chocolate",
+            "hints": ["A sweet treat.", "Made from cocoa.", "Comes in dark, milk, and white varieties."]
+        },
+        {
+            "word": "robot",
+            "hints": ["A machine that performs tasks.", "Can be controlled by AI.", "Used in automation and manufacturing."]
+        },
+        {
+            "word": "football",
+            "hints": ["A popular sport.", "Played with a round ball.", "Also called soccer in some countries."]
+        },
+        {
+            "word": "diamond",
+            "hints": ["A precious gemstone.", "The hardest natural material.", "Often used in jewelry."]
+        },
+        {
+            "word": "clock",
+            "hints": ["A device for telling time.", "Has numbers and hands.", "Can be analog or digital."]
+        },
+        {
+            "word": "mountain",
+            "hints": ["A large landform.", "Taller than hills.", "Mount Everest is the tallest one."]
+        },
+        {
+            "word": "butterfly",
+            "hints": ["A colorful insect.", "Goes through metamorphosis.", "Has four wings."]
+        },
+        {
+            "word": "airplane",
+            "hints": ["A vehicle that flies.", "Has wings and engines.", "Used for long-distance travel."]
+        },
+        {
+            "word": "lion",
+            "hints": ["The king of the jungle.", "Has a majestic mane.", "Roars loudly."]
+        },
+        {
+            "word": "panda",
+            "hints": ["A black-and-white bear.", "Loves eating bamboo.", "Native to China."]
+        },
+        {
+            "word": "kangaroo",
+            "hints": ["A marsupial animal.", "Found in Australia.", "Moves by hopping on strong hind legs."]
+        },
+        {
+            "word": "dolphin",
+            "hints": ["An intelligent marine mammal.", "Communicates with clicks and whistles.", "Loves to jump out of the water."]
+        },
+        {
+            "word": "zebra",
+            "hints": ["A striped animal.", "Similar to a horse.", "Native to Africa."]
+        },
+        {
+            "word": "giraffe",
+            "hints": ["The tallest land animal.", "Has a long neck.", "Eats leaves from tall trees."]
+        },
+        {
+            "word": "wolf",
+            "hints": ["A wild canine.", "Known for howling.", "Lives in packs."]
+        },
+        {
+            "word": "penguin",
+            "hints": ["A flightless bird.", "Lives in cold regions.", "Swims in the ocean."]
+        },
+        {
+            "word": "turtle",
+            "hints": ["A reptile with a shell.", "Moves slowly on land.", "Can live in water and on land."]
+        },
+        {
+            "word": "crocodile",
+            "hints": ["A large reptile.", "Has sharp teeth.", "Lives in rivers and swamps."]
+        }
+    ]
+}
